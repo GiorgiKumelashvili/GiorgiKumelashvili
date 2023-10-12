@@ -1,5 +1,5 @@
-## Hi there 👋 
-###### My main projects are located in this organization [WildStack](https://github.com/GiorgiKumelashvili/GiorgiKumelashvili.git)
+## Hi there 👋
+###### [WildStack](https://github.com/GiorgiKumelashvili/GiorgiKumelashvili.git) (My main projects are located in this organization)
 
 <br/>
 
