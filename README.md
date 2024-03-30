@@ -4,6 +4,9 @@
 
 <br/>
 
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKumelashvili&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+<img src="https://raw.githubusercontent.com/mistricky/mistricky/ac231765d4d81c46cc5fe158122b88f4df25f300/github-contribution-grid-snake.svg" />
+
 ## Languages & Tools
 #### Languages
 
@@ -25,10 +28,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,aws,linux,nginx,npm,prisma,tauri"/> 
 
-<br/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKumelashvili&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
-<img src="https://raw.githubusercontent.com/mistricky/mistricky/ac231765d4d81c46cc5fe158122b88f4df25f300/github-contribution-grid-snake.svg" />
 
 ## Top Respositories
 <p align="left">
