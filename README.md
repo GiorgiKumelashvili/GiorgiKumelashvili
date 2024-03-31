@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ###### [WildStack](https://github.com/WildStack) (My main projects are located in this organization)
+###### [GiorgiKumelashviliPersonalProjects](https://github.com/GiorgiKumelashviliPersonalProjects) (My all side projects are located in this organization)
 
 <br/>
 
