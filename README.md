@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-###### [beastzdotdev](https://github.com/beastzdotdev) (My main projects are located in this organization)
-###### [GiorgiKumelashviliPersonalProjects](https://github.com/GiorgiKumelashviliPersonalProjects) (My all side projects are located in this organization)
+###### [beastzdotdev](https://github.com/beastzdotdev) (Personal organization where all main projects are located)
+###### [GiorgiKumelashviliPersonalProjects](https://github.com/GiorgiKumelashviliPersonalProjects) (All side projects are located in this organization)
 
 <br/>
 
