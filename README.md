@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###### [CV](https://portfolio.beastz.dev/assets/giorgi_kumelashvili.pdf)
+###### [Portfolio](https://portfolio.beastz.dev)
 ###### [Beastzdotdev](https://github.com/beastzdotdev) (Personal organization where all main projects are located)
 ###### [GiorgiKumelashviliPersonalProjects](https://github.com/GiorgiKumelashviliPersonalProjects) (All side projects are located in this organization)
 
