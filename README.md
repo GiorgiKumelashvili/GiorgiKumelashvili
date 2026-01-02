@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ###### [Portfolio](https://portfolio.beastz.dev)
-###### [Beastzdotdev](https://github.com/beastzdotdev) (Personal organization where all main projects are located)
+###### [CV](https://portfolio.beastz.dev/assets/giorgi_kumelashvili.pdf)
+###### [Beastzdotdev](https://github.com/beastzdotdev) (Personal organization)
 ###### [GiorgiKumelashviliPersonalProjects](https://github.com/GiorgiKumelashviliPersonalProjects) (All side projects are located in this organization)
 
 <br/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKumelashvili&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
 <img src="https://raw.githubusercontent.com/mistricky/mistricky/ac231765d4d81c46cc5fe158122b88f4df25f300/github-contribution-grid-snake.svg" />
 
 ## Languages & Tools
@@ -31,9 +31,9 @@
 
 <img src="https://skillicons.dev/icons?i=git,aws,linux,nginx,npm,prisma,tauri"/>
 
-<!-- ## Top Respositories -->
+<!-- ## Top Respositories
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://github.com/beastzdotdev/beastz-vault">
     <img 
       width="278" 
